@@ -1,0 +1,36 @@
+C:\Users\teovo\source\repos\Airlines Company\Airlines Company\bin\Debug\net8.0-windows\Airlines Company.exe
+C:\Users\teovo\source\repos\Airlines Company\Airlines Company\bin\Debug\net8.0-windows\Airlines Company.deps.json
+C:\Users\teovo\source\repos\Airlines Company\Airlines Company\bin\Debug\net8.0-windows\Airlines Company.runtimeconfig.json
+C:\Users\teovo\source\repos\Airlines Company\Airlines Company\bin\Debug\net8.0-windows\Airlines Company.dll
+C:\Users\teovo\source\repos\Airlines Company\Airlines Company\bin\Debug\net8.0-windows\Airlines Company.pdb
+C:\Users\teovo\source\repos\Airlines Company\Airlines Company\obj\Debug\net8.0-windows\Airlines_Company.Form1.resources
+C:\Users\teovo\source\repos\Airlines Company\Airlines Company\obj\Debug\net8.0-windows\Airlines Company.csproj.GenerateResource.cache
+C:\Users\teovo\source\repos\Airlines Company\Airlines Company\obj\Debug\net8.0-windows\Airlines Company.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teovo\source\repos\Airlines Company\Airlines Company\obj\Debug\net8.0-windows\Airlines Company.AssemblyInfoInputs.cache
+C:\Users\teovo\source\repos\Airlines Company\Airlines Company\obj\Debug\net8.0-windows\Airlines Company.AssemblyInfo.cs
+C:\Users\teovo\source\repos\Airlines Company\Airlines Company\obj\Debug\net8.0-windows\Airlines Company.csproj.CoreCompileInputs.cache
+C:\Users\teovo\source\repos\Airlines Company\Airlines Company\obj\Debug\net8.0-windows\Airlines Company.dll
+C:\Users\teovo\source\repos\Airlines Company\Airlines Company\obj\Debug\net8.0-windows\refint\Airlines Company.dll
+C:\Users\teovo\source\repos\Airlines Company\Airlines Company\obj\Debug\net8.0-windows\Airlines Company.pdb
+C:\Users\teovo\source\repos\Airlines Company\Airlines Company\obj\Debug\net8.0-windows\Airlines Company.genruntimeconfig.cache
+C:\Users\teovo\source\repos\Airlines Company\Airlines Company\obj\Debug\net8.0-windows\ref\Airlines Company.dll
+C:\Users\teovo\source\repos\Airlines Company\Airlines Company\obj\Debug\net8.0-windows\Airlines_Company.Properties.Resources.resources
+C:\Users\teovo\source\repos\Airlines Company\Airlines Company\obj\Debug\net8.0-windows\Airlines_Company.Form2.resources
+C:\Users\teovo\Desktop\Airlines Company\bin\Debug\net8.0-windows\Airlines Company.exe
+C:\Users\teovo\Desktop\Airlines Company\bin\Debug\net8.0-windows\Airlines Company.deps.json
+C:\Users\teovo\Desktop\Airlines Company\bin\Debug\net8.0-windows\Airlines Company.runtimeconfig.json
+C:\Users\teovo\Desktop\Airlines Company\bin\Debug\net8.0-windows\Airlines Company.dll
+C:\Users\teovo\Desktop\Airlines Company\bin\Debug\net8.0-windows\Airlines Company.pdb
+C:\Users\teovo\Desktop\Airlines Company\obj\Debug\net8.0-windows\Airlines_Company.Form1.resources
+C:\Users\teovo\Desktop\Airlines Company\obj\Debug\net8.0-windows\Airlines_Company.Form2.resources
+C:\Users\teovo\Desktop\Airlines Company\obj\Debug\net8.0-windows\Airlines_Company.Properties.Resources.resources
+C:\Users\teovo\Desktop\Airlines Company\obj\Debug\net8.0-windows\Airlines Company.csproj.GenerateResource.cache
+C:\Users\teovo\Desktop\Airlines Company\obj\Debug\net8.0-windows\Airlines Company.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teovo\Desktop\Airlines Company\obj\Debug\net8.0-windows\Airlines Company.AssemblyInfoInputs.cache
+C:\Users\teovo\Desktop\Airlines Company\obj\Debug\net8.0-windows\Airlines Company.AssemblyInfo.cs
+C:\Users\teovo\Desktop\Airlines Company\obj\Debug\net8.0-windows\Airlines Company.csproj.CoreCompileInputs.cache
+C:\Users\teovo\Desktop\Airlines Company\obj\Debug\net8.0-windows\Airlines Company.dll
+C:\Users\teovo\Desktop\Airlines Company\obj\Debug\net8.0-windows\refint\Airlines Company.dll
+C:\Users\teovo\Desktop\Airlines Company\obj\Debug\net8.0-windows\Airlines Company.pdb
+C:\Users\teovo\Desktop\Airlines Company\obj\Debug\net8.0-windows\Airlines Company.genruntimeconfig.cache
+C:\Users\teovo\Desktop\Airlines Company\obj\Debug\net8.0-windows\ref\Airlines Company.dll
